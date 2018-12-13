@@ -1,0 +1,13 @@
+
+
+source 'https://github.com/GSmallSea/XHProjectMain.git'
+source 'https://github.com/CocoaPods/Specs.git'
+
+platform :ios, '8.0'
+
+target 'XHMainProject' do
+
+  pod 'XHMainProject-User', '~>0.0.7'
+
+end
+
